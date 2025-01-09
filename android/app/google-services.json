@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109927117800",
+    "project_id": "mr-lowat-bakery",
+    "storage_bucket": "mr-lowat-bakery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109927117800:android:8175b5870635aa3ce0aa5d",
+        "android_client_info": {
+          "package_name": "com.example.mr_lowat_bakery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zFOUxAqr755n0bN_LTlTrDqxN2bAT5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
